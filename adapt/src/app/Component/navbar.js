@@ -8,8 +8,8 @@ import { motion } from 'framer-motion';
 const links = [
   { url: '/', title: 'Home' },
   { url: '/About', title: 'About' },
-  { url: '/Portfolio', title: 'Portfolio' },
-  { url: '/Contact', title: 'Contact' },
+  //{ url: '/Portfolio', title: 'Portfolio' },
+  //{ url: '/Contact', title: 'Contact' },
 ];
 const Navbar = () => {
   {
